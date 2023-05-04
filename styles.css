@@ -1,0 +1,15 @@
+.navbar-brand {
+ color: darkgreen;
+ font-weight: bold;
+ font-size: 24px;
+}
+
+.nav-item{
+ font-size: 19px;
+ font-weight: 500;
+}
+
+#definition{
+ font-weight: 400;
+}
+
